@@ -2,9 +2,14 @@
 
 <details>
 <summary> About me 💻</summary>
-<p>
-I am a final year student at Lokmanya Tilak College of Engineering studying computer science. I have a passion for learning and developing new skills related to programming and computer science.
-Currently seeking an entry-level position to begin my career in a professional environment. Secure a responsible career opportunity with a company, where I can fully utilize my training and skills while making a significant contribution to the success of the company. 
+<p>First and Foremost I love Coding.I just entered the community and I was amused to see tons of people working and making great things , this inspired me to work and code for the betterment of the community as well as the society and I am definitely  enjoying it.
+
+Ever since writing my first program in C , I have never have had a feeling of getting bored, the only thing I have is the curiosity for something more.
+I learned Python and fell in love with it , and started exploring python web frameworks, Machine learning with Python and also bit of tools for data visualization.The potential of Python amused me.I still think it might take a lot time for implementation of python as it is used for many things.
+
+Meanwhile I discovered some new technologies like Java,PHP,SQL which were also good.
+I am still pursing my education and would love to know new things all the way from anywhere.
+
 </p>
 </details>    
  
