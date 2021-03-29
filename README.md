@@ -1,4 +1,4 @@
-<h1>Hi Traveller, I am Devdatta Khoche <img src="https://raw.githubusercontent.com/abhi7585/abhi7585/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi Traveller, I am Devdatta Khoche <img src="https://raw.githubusercontent.com/devdattakhoche/devdattakhoche/main/gifs/Hi.gif" width="30px"></h1>
 
 <details>
 <summary> About me 💻</summary>
@@ -33,8 +33,8 @@ Currently seeking an entry-level position to begin my career in a professional e
 
 ### Connect with me:-
 
-<a href="https://linkedin.com/in/devdattakhoche"><img src="https://github.com/abhi7585/abhi7585/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://twitter.com/DevdattaKhoche"><img src="https://github.com/abhi7585/abhi7585/blob/master/logos/twitter.png" width="40" /></a>
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=dkhoche2000@gmail.com"><img src="https://github.com/abhi7585/abhi7585/blob/master/logos/google-plus.png" width="40" /></a>
+<a href="https://linkedin.com/in/devdattakhoche"><img src="https://github.com/devdattakhoche/devdattakhoche/blob/main/logos/linkedin.png" width="40" /></a>
+<a href="https://twitter.com/DevdattaKhoche"><img src="https://github.com/devdattakhoche/devdattakhoche/blob/main/logos/twitter.png" width="40" /></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=dkhoche2000@gmail.com"><img src="https://raw.githubusercontent.com/devdattakhoche/devdattakhoche/main/logos/google-plus.png" width="40" /></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devdattakhoche&style=flat-square" alt="Dev's Github Stats" /> </p>
